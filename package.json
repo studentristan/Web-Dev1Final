@@ -1,0 +1,17 @@
+{
+  "name": "bananasryummylol",
+  "version": "1.0.0",
+  "description": "This is a very good description.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "banana"
+  ],
+  "author": "Tristan Werden aka TheCoolestGuyEver",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
