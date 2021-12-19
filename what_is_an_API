@@ -1,0 +1,9 @@
+What is a web API?
+
+API = Application Programming Interface
+
+A web API acts as the in-between for your website's server and another service's server. For example, if you wanted to have a button on your website that
+would show the user the current location of every McDonalds on the planet, you would have to use Google Map's API. The user would hit the button and send a 
+request to your server asking for the info, but you don't have that information. So you use the API developed by Google to have your website ask their 
+database for that information, then your server responds to the user and presents the newly aquired information. The API is just serving the information 
+from another service's database or server. 
